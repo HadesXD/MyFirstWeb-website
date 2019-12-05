@@ -1,11 +1,19 @@
 # My First Website
-In 2017, I first started learning about web development. <br/>
-I had to create a website for project weekends for students, that teachers could add and students could join. <br/>
-I learned a lot, however this repository is more of a look at how much of a rookie I am. <br/>
-I lost the database for this project. <br/>
-I am now trying to make a better website: https://github.com/SloDS/FilmDen-website
+In 2017, I first started learning about web development. I created a website for project weekends managed by teachers for students.<br/>
 
-<b>Using:</b>
-- languages: HTML5, CSS3, PHP, SQL (MySQL)
-- IDE: NetBeans 8.2
-- Programs: Toad Data Modeler, XAMPP
+<ul>
+  <li><b>Date:</b> June 2017</li>
+  <li><b>Language: </b>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>PHP</li>
+      <li>MySQL</li>
+    </ul>
+  <li><b>IDE:</b> NetBeans 8.2</li>
+  <li><b>Programs:</b>
+    <ul>
+      <li>Toad Data Modeler</li>
+      <li>XAMPP</li>
+    </ul>
+</ul>
